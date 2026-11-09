@@ -1,1 +1,7 @@
 arzu
+
+
+
+printf "protocol=https\nhost=github.com\n\n" | git credential reject
+git remote set-url origin https://UBAYXANOV@github.com/UBAYXANOV/ARZIW.git
+git push -u origin main
